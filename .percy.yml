@@ -1,0 +1,10 @@
+version: 1
+snapshot:
+  widths: [375, 1280]
+  min-height: 1024 # px
+  percy-css: ""
+static-snapshots:
+  path: _site/
+  base-url: /blog/
+  snapshot-files: '**/*.html'
+  ignore-files: '**/*.htm'
