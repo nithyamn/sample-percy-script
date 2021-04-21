@@ -1,1 +1,1 @@
-# sample-pery-script
+# sample-percy-script
